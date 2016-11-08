@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'paperclip'
+gem 'paperclip', git: "git://github.com/thoughtbot/paperclip.git"
 gem 'country_select'
 gem 'simple_form'
 gem 'rename'
